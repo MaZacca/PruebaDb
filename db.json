@@ -1,31 +1,29 @@
 {
-  "posts": [
+
+  "data": [
     {
-      "id": 1,
-      "title": "Post 1"
+      "id": "636484ac3d253",
+      "name": "Social networks",
+      "description": "My social networks",
+      "public": true,
+      "public_token": "0ae42825533c2f2b1bda51b0afc95b0739a15ea7",
+      "tiles_count": 16,
+      "public_url": "https://rck.app/636484ac3d253",
+      "public_image": "https://www.rackoot.com/assets/images/rackoot-social-profiles-demo.png",
+      "times_imported": 5,
+      "follow_count": 194
     },
     {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
+      "id": "636e6531c4eaa",
+      "name": "Public",
+      "description": "My private Rackoot",
+      "public": false,
+      "public_token": "381b70c8fc44721fdc3e59179fe8a638efb18c63",
+      "tiles_count": 47,
+      "public_url": "https://rck.app/636e6531c4eaa",
+      "public_image": "https://www.rackoot.com/assets/images/rackoot-social-profiles-demo.png",
+      "times_imported": 0,
+      "follow_count": 0
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
